@@ -65,7 +65,7 @@
     "start-server-and-test": "^2.1.2",
     "typescript": "^5.9.3",
     "vite": "^7.1.12",
-    "vitest": "^4.0.4",
+    "vitest": "^4.1.11",
     "vitest-axe": "^1.0.0-pre.5"
   },
   "engines": {
